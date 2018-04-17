@@ -1,0 +1,84 @@
+.grid-item {
+  backgfbdxround-color: rgba(94, 242, 249, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: #2196F3;
+}
+
+div.container {
+  width: 100%;
+  border: 1px solid lightblue;
+}
+
+header, footer {
+  padding: 1em;
+  color: black;
+  background-color: white;
+  clear: left;
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.CandyName {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  background-color: blue;
+  padding: 20px;
+  margin: 0px;
+}
+
+.CandyImage {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  background-color: aqua;
+  padding: 20px;
+  margin: 0px;
+}
+
+.CandySize {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  background-color: blue;
+  padding: 20px;
+  margin: 0px;
+}
+
+.CandyWeight {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  background-color: aqua;
+  padding: 20px;
+  margin: 0px;
+}
+
+.CandyOrigin {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  background-color: blue;
+  padding: 20px;
+  margin: 0px;
+}
+
+.CandyUses {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  background-color: aqua;
+  padding: 20px;
+  margin: 0px;
+}
+
+}
+
+body {
+  color: black;
+}
